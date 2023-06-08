@@ -64,7 +64,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height ="40"/>&nbsp;
 </div>
+---
 
+### Skills :
   - Programming languages : Python [NumPy, Pandas, Scikit-learn,Tensorflow, Keras,  Spacy , OCR]
   - Databases:  SQL, PostgresSQL, MongoDB
   - Tools : Streamlit , Tabuleau , Jupyter Notebook, Google Collab
