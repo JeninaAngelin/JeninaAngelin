@@ -65,9 +65,18 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height ="40"/>&nbsp;
 </div>
 
+  - Programming languages : Python [NumPy, Pandas, Scikit-learn,Tensorflow, Keras,  Spacy , OCR]
+  - Databases:  SQL, PostgresSQL, MongoDB
+  - Tools : Streamlit , Tabuleau , Jupyter Notebook, Google Collab
+  - Visualization and Analytical Tools:  Tabuleau, Matplotlib, Seaborn
+  - Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision
+
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeninaAngelin&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeninaAngelin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JeninaAngelin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
