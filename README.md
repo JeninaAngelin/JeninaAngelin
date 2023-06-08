@@ -36,11 +36,12 @@ Here are some ideas to get you started:
   <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
 </div>
+</div>
 ---
 
 ### :woman_technologist: About Me :
   I am an emerging Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  <div>
+<div>
 - :telescope: I’m working as a Data Scientist intern and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring RPA and Automation.
