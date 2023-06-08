@@ -16,7 +16,7 @@
 -->
     
   <a href="https://mobile.twitter.com/angelicajeni7">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=red" alt="Twitter Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=JeninaAngelin&style=flat-square&color=green" alt=""/>
@@ -36,7 +36,7 @@
   
 <div>
   
-- :telescope: I’m working as a Data Scientist intern and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Data Scientist intern and contributing to many Analytical problems.
 
 - :seedling: Exploring RPA and Automation.
 
