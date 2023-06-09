@@ -70,8 +70,8 @@
 ### Skills :
   - Programming languages : Python [NumPy, Pandas, Scikit-learn,Tensorflow, Keras,  Spacy , OCR]
   - Databases:  SQL, PostgresSQL, MongoDB
-  - Tools : Streamlit , Tabuleau , Jupyter Notebook, Google Collab
-  - Visualization and Analytical Tools:  Tabuleau, Matplotlib, Seaborn
+  - Tools : Streamlit , Tableau , Jupyter Notebook, Google Collab, PowerBI
+  - Visualization and Analytical Tools:  Tableau, Matplotlib, Seaborn, PowerBI
   - Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision
 
 ---
