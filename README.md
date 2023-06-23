@@ -32,7 +32,7 @@
 ---
 
 ### :woman_technologist: About Me :
-  I am an emerging Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  I am an emerging Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Wanna become better than my previous-self
   
 <div>
   
