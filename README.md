@@ -42,7 +42,7 @@
 
 - :zap: In my free time, I solve problems on Hacker Earth and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenina-angelin-0761a8227)
+- :mailbox:You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenina-angelin-0761a8227) or use Gmail
 </div>
 
 ---
