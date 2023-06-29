@@ -67,7 +67,7 @@
 
 ---
 
-### :sunflower: Skills :
+### ✴️: Skills :
   - Programming languages : Python [NumPy, Pandas, Scikit-learn,Tensorflow, Keras,  Spacy , OCR]
   - Databases:  SQL, PostgresSQL, MongoDB
   - Tools : Streamlit , Tableau , Jupyter Notebook, Google Collab, PowerBI
