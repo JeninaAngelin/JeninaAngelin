@@ -40,6 +40,8 @@
 
 - :seedling: Exploring RPA and Automation.
 
+- 🌠: Love coding and creating responsive web pages is my hobby.
+
 - :zap: In my free time, I solve problems on Hacker Earth and read tech articles.
 
 - :mailbox:You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenina-angelin-0761a8227) or use Gmail
