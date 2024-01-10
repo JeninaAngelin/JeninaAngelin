@@ -38,11 +38,11 @@
   
 - :telescope: I’m working as a Data Scientist intern and contributing to many Analytical problems.
 
-- :seedling: Exploring RPA and Automation.
+- :seedling: Exploring Information Security and Applied Machine Learning.
 
 - 🌠: Love coding and creating responsive web pages is my hobby.
 
-- :zap: In my free time, I solve problems on Hacker Earth and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and write tech articles.
 
 - :mailbox:You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenina-angelin-0761a8227) or use Gmail
 </div>
