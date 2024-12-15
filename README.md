@@ -36,7 +36,7 @@
   
 <div>
   
-- :telescope: I’m working as a Product Research intern and contributing to many Analytical problems.
+- :telescope: I’m a Data Architect and I love contributing to many Analytical problems.
 
 - :seedling: Exploring Information Security and Applied Machine Learning.
 
