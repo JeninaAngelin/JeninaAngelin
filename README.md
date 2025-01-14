@@ -83,9 +83,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JeninaAngelin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeninaAngelin&theme=dark)](https://git.io/streak-stats)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=JeninaAngelin&style=flat-square&color=blue)
-
-![Jenina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeninaAngelin&show_icons=true&theme=radical)
