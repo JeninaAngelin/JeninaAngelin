@@ -45,51 +45,45 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 
 ### 🛠️ Tech Stack
 
-#### Languages
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<div align="left">
+### 👨‍💻 Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
+🐍 Python · SQL  
+☕ Java · C
 
-</div>
+### ⚙️ Data Engineering
 
-#### Data Engineering
+Databricks · PySpark  
+PostgreSQL · dbt  
+Delta Lake · ETL  
+Data Modelling · Unity Catalog
 
-<div align="left">
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" title="PySpark" alt="PySpark" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+<td valign="top" width="50%">
 
-</div>
+### ☁️ Cloud & Analytics
 
-**Databricks · dbt · Delta Lake · ETL · Data Modelling · Unity Catalog**
+Azure  
+Microsoft Fabric · Power BI
 
-#### Cloud & Analytics
+### 🤖 AI / Machine Learning
 
-<div align="left">
+TensorFlow · PyTorch · OpenCV  
+Machine Learning · Deep Learning  
+NLP · Computer Vision  
+LLMs · AI Agents
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
+### 🔧 Tools
 
-</div>
+Git · Docker · Jupyter
 
-**Microsoft Fabric · Power BI**
-
-#### AI / Machine Learning
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
-
-</div>
-
-**Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · AI Agents**
-
-#### Tools
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
