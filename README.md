@@ -47,41 +47,67 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td align="center"><b>Languages</b></td>
+<td align="center">🐍 Python</td>
+<td align="center">SQL</td>
+<td align="center">☕ Java</td>
+<td align="center">C</td>
+</tr>
 
-### 👨‍💻 Languages
+<tr>
+<td align="center"><b>Data Engineering</b></td>
+<td align="center">Databricks</td>
+<td align="center">PySpark</td>
+<td align="center">PostgreSQL</td>
+<td align="center">dbt</td>
+</tr>
 
-🐍 Python · SQL  
-☕ Java · C
+<tr>
+<td></td>
+<td align="center">Delta Lake</td>
+<td align="center">ETL</td>
+<td align="center">Data Modelling</td>
+<td align="center">Unity Catalog</td>
+</tr>
 
-### ⚙️ Data Engineering
+<tr>
+<td align="center"><b>Cloud & Analytics</b></td>
+<td align="center">Azure</td>
+<td align="center">Microsoft Fabric</td>
+<td align="center">Power BI</td>
+<td></td>
+</tr>
 
-Databricks · PySpark  
-PostgreSQL · dbt  
-Delta Lake · ETL  
-Data Modelling · Unity Catalog
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td align="center">TensorFlow</td>
+<td align="center">PyTorch</td>
+<td align="center">OpenCV</td>
+<td></td>
+</tr>
 
-</td>
+<tr>
+<td></td>
+<td align="center">Machine Learning</td>
+<td align="center">Deep Learning</td>
+<td align="center">NLP</td>
+<td align="center">Computer Vision</td>
+</tr>
 
-<td valign="top" width="50%">
+<tr>
+<td></td>
+<td align="center">LLMs</td>
+<td align="center">AI Agents</td>
+<td></td>
+<td></td>
+</tr>
 
-### ☁️ Cloud & Analytics
-
-Azure  
-Microsoft Fabric · Power BI
-
-### 🤖 AI / Machine Learning
-
-TensorFlow · PyTorch · OpenCV  
-Machine Learning · Deep Learning  
-NLP · Computer Vision  
-LLMs · AI Agents
-
-### 🔧 Tools
-
-Git · Docker · Jupyter
-
-</td>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td align="center">Git</td>
+<td align="center">Docker</td>
+<td align="center">Jupyter</td>
+<td></td>
 </tr>
 </table>
 
