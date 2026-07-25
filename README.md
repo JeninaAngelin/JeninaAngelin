@@ -31,24 +31,6 @@
 
 ---
 
-### :woman_technologist: About Me :
-  I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Wanna become better than my previous-self
-  
-<div>
-  
-- :telescope: I’m a Data Architect and I love contributing to many Analytical problems.
-
-- :seedling: Exploring Information Security and Applied Machine Learning.
-
-- 🌠: Love coding and learning new technologies is my hobby.
-
-- :zap: In my free time, I solve problems on LeetCode and write tech articles.
-
-- :mailbox:You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenina-angelin) or use Gmail
-</div>
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -67,19 +49,96 @@
 
 ---
 
-### ✴️: Skills :
-  - Programming languages : Python [NumPy, Pandas, Scikit-learn,Tensorflow, Keras,  Spacy , OCR]
-  - Databases:  SQL, PostgresSQL, MongoDB
-  - Tools : Streamlit , Tableau , Jupyter Notebook, Google Collab, PowerBI
-  - Visualization and Analytical Tools:  Tableau, Matplotlib, Seaborn, PowerBI
-  - Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision
+<!--
+**JeninaAngelin/JeninaAngelin** is a ✨ _special_ ✨ repository because its `README.md`
+appears on your GitHub profile.
+-->
+
+<div align="center">
+
+# Hey there! 👋 I'm Jenina Angelin
+
+**Data Engineer @ zeb | Data Engineering · AI · Analytics**
+
+Chennai, India
+
+<a href="https://www.linkedin.com/in/jenina-angelin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/JeninaAngelin">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://medium.com/@angelicajeni7">
+<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeninaAngelin&theme=dark&background=000000)](https://git.io/streak-stats)
+### 👩‍💻 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeninaAngelin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+Data Engineer working with **Databricks, PySpark, SQL, Delta Lake and Microsoft Fabric**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JeninaAngelin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
+
+* 🔭 Data Engineer at **zeb**
+* ⚙️ Building scalable ETL pipelines and data solutions
+* 📊 Developing analytics solutions with **Power BI**
+* ✍️ Writing about **AI, Databricks and Data Engineering**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python · SQL · Java · C
+
+**Data:** Databricks · PySpark · Delta Lake · PostgreSQL · DBT · ETL · Data Modelling
+
+**Cloud & Analytics:** Microsoft Fabric · Power BI · Azure
+
+**AI/ML:** Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · AI Agents
+
+**Tools:** Git · Docker · Jupyter
+
+---
+
+### 💼 Experience
+
+**Data Engineer — zeb**
+
+* Built scalable ETL pipelines using **Azure Databricks and Delta Lake**
+* Developed optimized **PySpark and SQL** transformations
+* Worked on **Unity Catalog migration** across Data Engineering and ML workloads
+* Built **Power BI dashboards using Microsoft Fabric**
+* Worked with **ML workflows in the Databricks Lakehouse**
+
+---
+
+### 🏆 Highlights
+
+🎤 Google Developer Group — Chapter Lead
+🌟 LinkedIn Top Voice — 2024 & 2025
+🥇 IIM Visakhapatnam Data Analytics Challenge — Winner
+🏆 Smart India Hackathon — Finalist
+
+---
+
+### 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JeninaAngelin&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeninaAngelin&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Building with data. Exploring AI. Always learning.**
+
+</div>
+
