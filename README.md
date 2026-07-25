@@ -22,6 +22,10 @@ Chennai, India
 
 </div>
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400"/>
+</div>
+
 ---
 
 <!--
