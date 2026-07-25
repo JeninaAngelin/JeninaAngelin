@@ -47,9 +47,9 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 <table>
 <tr>
 <td align="center"><b>Languages</b></td>
-<td align="center">🐍<br>Python</td>
+<td align="center">Python</td>
 <td align="center">SQL</td>
-<td align="center">☕<br>Java</td>
+<td align="center">Java</td>
 <td align="center">C</td>
 </tr>
 
