@@ -53,26 +53,23 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
 </div>
 
+
 **Data Engineering**
 
 <div>
-  <img src="https://cdn.simpleicons.org/databricks" title="Databricks" alt="Databricks" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" title="PySpark" alt="PySpark" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/dbt" title="dbt" alt="dbt" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 </div>
 
-<p>
-  Delta Lake · ETL · Data Modelling · Unity Catalog
-</p>
+Databricks · dbt · Delta Lake · ETL · Data Modelling · Unity Catalog
 
 **Cloud & Analytics**
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Microsoft Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftfabric" title="Microsoft Fabric" alt="Microsoft Fabric" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
 </div>
+
+Microsoft Fabric · Power BI
 
 **AI / Machine Learning**
 
@@ -81,6 +78,8 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
 </div>
+
+Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · AI Agents
 
 <p>
   Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · AI Agents
