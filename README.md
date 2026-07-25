@@ -48,14 +48,14 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 <table>
 <tr>
 <td align="center"><b>Languages</b></td>
-<td align="center">🐍 Python</td>
+<td align="center">🐍<br>Python</td>
 <td align="center">SQL</td>
-<td align="center">☕ Java</td>
+<td align="center">☕<br>Java</td>
 <td align="center">C</td>
 </tr>
 
 <tr>
-<td align="center"><b>Data Engineering</b></td>
+<td rowspan="2" align="center"><b>Data<br>Engineering</b></td>
 <td align="center">Databricks</td>
 <td align="center">PySpark</td>
 <td align="center">PostgreSQL</td>
@@ -63,7 +63,6 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 </tr>
 
 <tr>
-<td></td>
 <td align="center">Delta Lake</td>
 <td align="center">ETL</td>
 <td align="center">Data Modelling</td>
@@ -71,7 +70,7 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 </tr>
 
 <tr>
-<td align="center"><b>Cloud & Analytics</b></td>
+<td align="center"><b>Cloud &<br>Analytics</b></td>
 <td align="center">Azure</td>
 <td align="center">Microsoft Fabric</td>
 <td align="center">Power BI</td>
@@ -79,27 +78,18 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 </tr>
 
 <tr>
-<td align="center"><b>AI / ML</b></td>
+<td rowspan="2" align="center"><b>AI /<br>Machine Learning</b></td>
 <td align="center">TensorFlow</td>
 <td align="center">PyTorch</td>
 <td align="center">OpenCV</td>
-<td></td>
+<td align="center">Machine Learning</td>
 </tr>
 
 <tr>
-<td></td>
-<td align="center">Machine Learning</td>
 <td align="center">Deep Learning</td>
 <td align="center">NLP</td>
 <td align="center">Computer Vision</td>
-</tr>
-
-<tr>
-<td></td>
-<td align="center">LLMs</td>
-<td align="center">AI Agents</td>
-<td></td>
-<td></td>
+<td align="center">LLMs · AI Agents</td>
 </tr>
 
 <tr>
