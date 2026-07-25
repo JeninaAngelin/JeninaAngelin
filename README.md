@@ -85,7 +85,7 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 </tr>
 
 <tr>
-<td align="center">Machine Learning</td>
+<td align="center">Model Building</td>
 <td align="center">NLP</td>
 <td align="center">AI Agents</td>
 <td></td>
