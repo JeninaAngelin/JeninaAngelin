@@ -9,8 +9,6 @@ appears on your GitHub profile.
 
 <h3>Data Engineer @ zeb | Data Engineering · AI · Analytics</h3>
 
-<p>Chennai, India</p>
-
 <a href="https://www.linkedin.com/in/jenina-angelin">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
