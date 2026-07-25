@@ -81,10 +81,6 @@ Microsoft Fabric · Power BI
 
 Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · AI Agents
 
-<p>
-  Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · AI Agents
-</p>
-
 **Tools**
 
 <div>
