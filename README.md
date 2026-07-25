@@ -9,8 +9,6 @@ appears on your GitHub profile.
 
 <h3>Data Engineer @ zeb | Data Engineering · AI · Analytics</h3>
 
-<p>Chennai, India</p>
-
 <a href="https://www.linkedin.com/in/jenina-angelin">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -24,7 +22,6 @@ appears on your GitHub profile.
 </a>
 
 <br><br>
-
 <img src="https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="350"/>
 
 </div>
@@ -47,9 +44,9 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 <table>
 <tr>
 <td align="center"><b>Languages</b></td>
-<td align="center">🐍<br>Python</td>
+<td align="center">Python</td>
 <td align="center">SQL</td>
-<td align="center">☕<br>Java</td>
+<td align="center">Java</td>
 <td align="center">C</td>
 </tr>
 
@@ -70,16 +67,16 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 
 <tr>
 <td align="center"><b>Cloud &<br>Analytics</b></td>
-<td align="center">Azure</td>
-<td align="center">Microsoft Fabric</td>
+<td align="center">Azure Data Factory</td>
+<td align="center">Microsoft ML Studio</td>
 <td align="center">Power BI</td>
-<td></td>
+<td align="center">Genie Agents</td>
 </tr>
 
 <tr>
 <td rowspan="2" align="center"><b>AI /<br>Machine Learning</b></td>
-<td align="center">TensorFlow</td>
-<td align="center">PyTorch</td>
+<td align="center">MLFLow</td>
+<td align="center">Keras</td>
 <td align="center">OpenCV</td>
 <td></td>
 </tr>
