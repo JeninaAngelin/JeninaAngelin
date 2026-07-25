@@ -2,6 +2,26 @@
 <!--
 **JeninaAngelin/JeninaAngelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<div align="center">
+
+# Hey there! 👋 I'm Jenina Angelin
+
+**Data Engineer @ zeb | Data Engineering · AI · Analytics**
+
+Chennai, India
+
+<a href="https://www.linkedin.com/in/jenina-angelin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/JeninaAngelin">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://medium.com/@angelicajeni7">
+<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
   <div id="badges">
@@ -35,28 +55,6 @@
 **JeninaAngelin/JeninaAngelin** is a ✨ _special_ ✨ repository because its `README.md`
 appears on your GitHub profile.
 -->
-
-<div align="center">
-
-# Hey there! 👋 I'm Jenina Angelin
-
-**Data Engineer @ zeb | Data Engineering · AI · Analytics**
-
-Chennai, India
-
-<a href="https://www.linkedin.com/in/jenina-angelin">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/JeninaAngelin">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://medium.com/@angelicajeni7">
-<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 ### 👩‍💻 About Me
 
