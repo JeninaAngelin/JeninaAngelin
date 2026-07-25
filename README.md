@@ -56,10 +56,10 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 **Data Engineering**
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" title="Databricks" alt="Databricks" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks" title="Databricks" alt="Databricks" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" title="PySpark" alt="PySpark" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" title="dbt" alt="dbt" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/dbt" title="dbt" alt="dbt" width="40" height="40"/>
 </div>
 
 <p>
@@ -70,12 +70,9 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Microsoft Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/powerbi" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftfabric" title="Microsoft Fabric" alt="Microsoft Fabric" width="40" height="40"/>
 </div>
-
-<p>
-  Microsoft Fabric
-</p>
 
 **AI / Machine Learning**
 
@@ -96,6 +93,7 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
 </div>
+
 
 ---
 
