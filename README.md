@@ -31,24 +31,6 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg" title="Aurdino" alt="Aurdino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height ="40"/>&nbsp;
-</div>
-
----
-
 <!--
 **JeninaAngelin/JeninaAngelin** is a ✨ _special_ ✨ repository because its `README.md`
 appears on your GitHub profile.
@@ -91,15 +73,47 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · SQL · Java · C
+**Languages**
 
-**Data:** Databricks · PySpark · Delta Lake · PostgreSQL · DBT · ETL · Data Modelling
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
+</div>
 
-**Cloud & Analytics:** Microsoft Fabric · Power BI · Azure
+**Data Engineering**
 
-**AI/ML:** Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · AI Agents
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" title="Databricks" alt="Databricks" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" title="PySpark" alt="PySpark" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" title="dbt" alt="dbt" width="40" height="40"/>
+</div>
 
-**Tools:** Git · Docker · Jupyter
+**Cloud & Analytics**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft Fabric / SQL" alt="Microsoft Fabric" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/>
+</div>
+
+**AI / Machine Learning**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Machine Learning / TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="Deep Learning / PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="Computer Vision / OpenCV" alt="OpenCV" width="40" height="40"/>
+</div>
+
+**Tools**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
+</div>
 
 ---
 
@@ -121,22 +135,6 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 🌟 LinkedIn Top Voice — 2024 & 2025
 🥇 IIM Visakhapatnam Data Analytics Challenge — Winner
 🏆 Smart India Hackathon — Finalist
-
----
-
-### 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JeninaAngelin&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeninaAngelin&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
----
-
-<div align="center">
 
 **Building with data. Exploring AI. Always learning.**
 
