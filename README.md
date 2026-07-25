@@ -70,16 +70,16 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 
 <tr>
 <td align="center"><b>Cloud &<br>Analytics</b></td>
-<td align="center">Azure</td>
-<td align="center">Microsoft Fabric</td>
+<td align="center">Azure Data Factory</td>
+<td align="center">Microsoft ML Studio</td>
 <td align="center">Power BI</td>
-<td></td>
+<td align="center">Genie Agents</td>
 </tr>
 
 <tr>
 <td rowspan="2" align="center"><b>AI /<br>Machine Learning</b></td>
-<td align="center">TensorFlow</td>
-<td align="center">PyTorch</td>
+<td align="center">MLFLow</td>
+<td align="center">Keras</td>
 <td align="center">OpenCV</td>
 <td></td>
 </tr>
