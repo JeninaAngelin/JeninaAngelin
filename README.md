@@ -104,6 +104,3 @@ Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · AI Agents
 - 🏆 Smart India Hackathon — Finalist
 
 **Building with data. Exploring AI. Always learning.**
-
-</div>
-
