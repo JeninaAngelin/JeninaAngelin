@@ -78,18 +78,18 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 </tr>
 
 <tr>
-<td rowspan="2" align="center"><b>AI /<br>Machine Learning</b></td>
+<td align="center"><b>AI /<br>Machine Learning</b></td>
 <td align="center">TensorFlow</td>
 <td align="center">PyTorch</td>
 <td align="center">OpenCV</td>
-<td align="center">Machine Learning</td>
 </tr>
 
 <tr>
-<td align="center">Deep Learning</td>
+<td></td>
+<td align="center">Machine Learning</td>
 <td align="center">NLP</td>
-<td align="center">Computer Vision</td>
-<td align="center">LLMs · AI Agents</td>
+<td align="center">AI Agents</td>
+<td></td>
 </tr>
 
 <tr>
