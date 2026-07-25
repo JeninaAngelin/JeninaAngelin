@@ -44,7 +44,6 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 ---
 
 ### 🛠️ Tech Stack
-
 <table>
 <tr>
 <td align="center"><b>Languages</b></td>
@@ -78,14 +77,14 @@ Interested in **Data Engineering, AI/ML, LLMs, AI Agents and Responsible AI**.
 </tr>
 
 <tr>
-<td align="center"><b>AI /<br>Machine Learning</b></td>
+<td rowspan="2" align="center"><b>AI /<br>Machine Learning</b></td>
 <td align="center">TensorFlow</td>
 <td align="center">PyTorch</td>
 <td align="center">OpenCV</td>
+<td></td>
 </tr>
 
 <tr>
-<td></td>
 <td align="center">Machine Learning</td>
 <td align="center">NLP</td>
 <td align="center">AI Agents</td>
