@@ -23,7 +23,7 @@ appears on your GitHub profile.
   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 <img src="https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="350"/>
 
 </div>
